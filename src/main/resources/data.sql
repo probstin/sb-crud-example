@@ -1,0 +1,1 @@
+insert into employees (first_name, last_name, email, pay_category, department, position, salary, ssn) values ('Isaiah', 'Badini', 'ibadini0@shinystat.com', 'HOURLY', 'Sales', 'Business Systems Development Analyst', '$182739.52', '678-84-6917');
